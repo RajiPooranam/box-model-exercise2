@@ -1,0 +1,28 @@
+.first-container{
+	background-color: #66bfbf;
+	height: 200px;
+	width: 200px;
+	padding: 20px;
+	position: absolute;
+	right: 1126px;
+	top: 0px;
+	}
+.second-container{
+	background-color: red;
+	height: 200px;
+	width: 200px;
+	padding: 20px;
+	position: absolute;
+	left: 240px;
+	top: 0px;
+
+}
+.third-container{
+	background-color: yellow;
+	height: 200px;
+	width: 200px;
+	padding: 20px;
+	position: absolute;
+	left: 480px;
+	top: 0px;
+}
